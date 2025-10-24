@@ -1,0 +1,6 @@
+O arquivo de extensão .txt
+é um arquivo de "texto simples"
+
+ele não tem formatação, tamanho, tipo de fonte, cores, etc..
+
+ele somente carrega texto
